@@ -120,8 +120,3 @@ while test1 and test2 and test3:
 
         elif win(line1, line2, line3, 'O'):
             print('PLAYER 2, Congrats ,you re the Winner! ')
-
-        # GIT TEST
-
-        if (test1):
-            print('wanna replay ?')
