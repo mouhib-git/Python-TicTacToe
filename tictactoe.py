@@ -120,9 +120,9 @@ while test:
         print()
         print()
 
-    if (drawtest(line1, '1', '2', '3')) and (drawtest(line2, '4', '5', '6')) and (drawtest(line3, '7', '8', '9')):
-        print('DRAW !!')
-        test = False
+    # if (drawtest(line1, '1', '2', '3')) and (drawtest(line2, '4', '5', '6')) and (drawtest(line3, '7', '8', '9')):
+    #     print('DRAW !!')
+    #     test = False
 
     elif win(line1, line2, line3, 'X'):
         print('PLAYER 1, Congrats ,you re the Winner! ')
